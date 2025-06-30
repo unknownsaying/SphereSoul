@@ -1,5 +1,5 @@
-# SphereSoul-engine
-circle -> square.(12); sphere -> cube(10); topology fractal(8); abcdef(6); XYZT(4); (2); dxdydzdt=(1) Latex -> typst
+2# SphereSoul-engine
+circle -> square.(12); sphere -> cube(10); topology fractal(8); abcdef(6); XYZT(4); 2D(2); dxdydzdt=(1) Latex -> typst
 # Citation
     inspired by Bethesda Game Company pipboy
 # Copyright 
